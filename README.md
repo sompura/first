@@ -5,19 +5,19 @@ Removes all spaces from a string.
 ## Install
 
 ```
-$ npm install @bamblehorse/tiny
+$ npm install @sompura/first
 ```
 
 ## Usage
 
 ```js
-const tiny = require("@bamblehorse/tiny");
+const tiny = require("@sompura/first");
 
 tiny("So much space!");
 //=> "Somuchspace!"
 
 tiny(1337);
-//=> Uncaught TypeError: Tiny wants a string!
-//    at tiny (<anonymous>:2:41)
+//=> Uncaught TypeError: First wants a string!
+//    at first (<anonymous>:2:41)
 //    at <anonymous>:1:1
 ```
