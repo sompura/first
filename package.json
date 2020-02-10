@@ -1,0 +1,14 @@
+{
+	"name": "@sompura/first",
+	"version" : "1.0.0",
+	"description": "Removes all spaces from a string",
+	"license": "MIT",
+	"repository": "sompura/first",
+	"main": "index.js",
+	"keywords": [
+		"first",
+		"npm",
+		"package",
+		"sompura"
+	]
+}
